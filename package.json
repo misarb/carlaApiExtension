@@ -1,8 +1,14 @@
 {
   "name": "carlaapi",
   "displayName": "CarlaAPI",
-  "description": "Code completion for CARLA API",
-  "version": "0.0.1",
+  "publisher": "misarb",
+  "description": "Extension provides intelligent code completion, documentation CARLA autonomous driving simulator API in Visual Studio Code.",
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misarb/carlaApiExtension"
+  },
+  "version": "0.0.2",
   "engines": {
       "vscode": "^1.94.0"
   },

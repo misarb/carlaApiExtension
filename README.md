@@ -8,19 +8,18 @@ This extension provides intelligent code completion, documentation, and IntelliS
 - Context-aware completion for CARLA classes, methods, and properties
 - Automatically shows relevant methods and properties when typing class names
 - Rich documentation preview in completion items
+
 ![Code Completion](images/completion.gif)
 
 ### Method Signature Help
 - Real-time parameter information while typing method calls
 - Parameter types and default values
 - Documentation for each parameter
-![Signature Help](images/signature-help.gif)
 
 ### Hover Documentation
 - Detailed documentation on hover for classes, methods, and properties
 - Shows method signatures and return types
 - Displays access information for properties (read/write)
-![Hover Documentation](images/hover-doc.gif)
 
 ### Smart Context Detection
 - Shows only relevant completions based on context
@@ -31,7 +30,7 @@ This extension provides intelligent code completion, documentation, and IntelliS
 
 - Visual Studio Code version 1.94.0 or higher
 - Python extension for VS Code
-- CARLA Python API installed in your environment
+- CARLA Python API installed in your environment (optional)
 
 ## Installation
 
@@ -89,6 +88,11 @@ If you encounter any issues:
 ## Contributing
 
 1. Fork the repository
+
+``` bash
+   git clone  https://github.com/misarb/carlaApiExtension
+```
+
 2. Create a feature branch
 3. Commit your changes
 4. Push to the branch
@@ -123,8 +127,11 @@ This extension is licensed under the MIT License. See the LICENSE file for detai
 ## Support
 
 For bug reports and feature requests, please use the GitHub issue tracker:
+
 [https://github.com/misarb/carlaApiExtension/issues](https://github.com/misarb/carlaApiExtension/issues)
 
 ---
+## Buy me a Coffee : 
+[paypal](paypal.me/LBoulbalah)
 
 **Enjoy using the CARLA API Extension!**
